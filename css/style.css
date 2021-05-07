@@ -24,3 +24,17 @@ header button{
     border-radius: 5px;
     border: none;
 }
+
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+    overflow: auto;
+}
+
+.utente{
+    width: calc(100% / 6);
+    height: 150px;
+    border: 3px solid black;
+    position: relative;
+}
