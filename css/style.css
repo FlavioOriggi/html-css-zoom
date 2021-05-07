@@ -20,6 +20,7 @@ header button{
     margin: 5px;
     padding: 5px;
     background-color: #4a4a4a;
+    color: white;
     
     border-radius: 5px;
     border: none;
@@ -77,18 +78,35 @@ footer button{
     padding: 5px; 
     border: none;
     background-color: transparent;
-    font-size: 20px;
+    font-size: 16px;
+}
 
+footer i{
+    font-size: 30px;
+    padding: 7px 0;
+}
+
+.col, .col-centrale{
+    display: flex;
+    align-items: center;
 }
 
 .color-btn-footer{
-    color: white;
+    color: white;    
 }
+
+
+
+
 
 .fa-share-square{
     color: #4bc800;
+    font-size: 30px;
 }
 
+.fa-angle-up{
+    font-size: 15px;
+}
 
 
 .End-mtng{
