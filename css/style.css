@@ -70,10 +70,16 @@ footer button{
     padding: 5px; 
     border: none;
     background-color: transparent;
+    font-size: 20px;
+
 }
 
 .color-btn-footer{
     color: white;
+}
+
+.fa-share-square{
+    color: #4bc800;
 }
 
 
