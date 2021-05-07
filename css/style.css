@@ -15,3 +15,12 @@ header{
     display: flex;
     justify-content: flex-end;
 }
+
+header button{
+    margin: 5px;
+    padding: 5px;
+    background-color: #4a4a4a;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
