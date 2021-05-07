@@ -25,6 +25,13 @@ header button{
     border: none;
 }
 
+
+/* sezione main */
+
+main{
+    height: calc(100vh - 120px);
+}
+
 .gallery{
     display: flex;
     flex-wrap: wrap;
